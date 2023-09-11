@@ -1,9 +1,0 @@
-numpy
-scipy
-
-# all this is for the dang tests
-matplotlib
-seaborn
-pandas
-sklearn
-huffman
